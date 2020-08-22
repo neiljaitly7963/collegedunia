@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/collegedunia/static/css/main.13801c35.chunk.css",
+    "main.css": "/collegedunia/static/css/main.19b2cef1.chunk.css",
     "main.js": "/collegedunia/static/js/main.18f8ec50.chunk.js",
     "main.js.map": "/collegedunia/static/js/main.18f8ec50.chunk.js.map",
     "runtime-main.js": "/collegedunia/static/js/runtime-main.b8d60d25.js",
@@ -8,9 +8,9 @@
     "static/js/2.6a962539.chunk.js": "/collegedunia/static/js/2.6a962539.chunk.js",
     "static/js/2.6a962539.chunk.js.map": "/collegedunia/static/js/2.6a962539.chunk.js.map",
     "index.html": "/collegedunia/index.html",
-    "precache-manifest.be5cd0914257f130b31571b4c2d3f3b8.js": "/collegedunia/precache-manifest.be5cd0914257f130b31571b4c2d3f3b8.js",
+    "precache-manifest.2884cfc6780974fabbeaa7b9900907d1.js": "/collegedunia/precache-manifest.2884cfc6780974fabbeaa7b9900907d1.js",
     "service-worker.js": "/collegedunia/service-worker.js",
-    "static/css/main.13801c35.chunk.css.map": "/collegedunia/static/css/main.13801c35.chunk.css.map",
+    "static/css/main.19b2cef1.chunk.css.map": "/collegedunia/static/css/main.19b2cef1.chunk.css.map",
     "static/js/2.6a962539.chunk.js.LICENSE.txt": "/collegedunia/static/js/2.6a962539.chunk.js.LICENSE.txt",
     "static/media/Card.css": "/collegedunia/static/media/college_02.619ee97e.jpg",
     "static/media/logo.svg": "/collegedunia/static/media/logo.5d5d9eef.svg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.b8d60d25.js",
     "static/js/2.6a962539.chunk.js",
-    "static/css/main.13801c35.chunk.css",
+    "static/css/main.19b2cef1.chunk.css",
     "static/js/main.18f8ec50.chunk.js"
   ]
 }
